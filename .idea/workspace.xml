@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9ba3e7c-76f5-41e1-b681-9bcfe95b0443" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ChartKitTesting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GraphScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LineGraph.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PieChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GraphScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/LineGraph.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LineGraph.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +44,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -60,11 +56,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581713506823</updated>
-      <workItem from="1581713508635" duration="2172000" />
+      <workItem from="1581713508635" duration="6080000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1521" y="179" key="SettingsEditor" timestamp="1581715787799">
+      <screen x="-1881" y="23" width="1881" height="1057" />
+    </state>
+    <state x="-1521" y="179" key="SettingsEditor/-1881.23.1881.1057/0.23.1680.1027@-1881.23.1881.1057" timestamp="1581715787799" />
   </component>
 </project>
